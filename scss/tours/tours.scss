@@ -1,0 +1,468 @@
+.tours{
+    min-height: 1200px;
+    width: $content-width;
+    margin: 0 auto;
+    
+
+    .hiro {
+        width:981px;
+        height: 200px;
+        margin-top: 49.5px;
+        background: linear-gradient(rgb(0,0,0,0.5), rgb(0,0,0,0.5)),url(../images/trees.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+
+        .titleT {
+            font-family: sole;
+            color: white;
+            font-weight: 100;
+            margin-top: 69.5px;
+            font-size: 60px;
+            margin: 0 auto;
+            margin-top: 53px;
+            letter-spacing: 5px;
+        }
+    }
+.row1{
+    width: 100%;
+    height: 300px;
+    margin-top: 48px;
+    display: flex;
+
+    .trip1{
+        height: 304px;
+        width: 236px;
+        background-image: url(../images/Group50.png);
+        margin-left: 81px;
+        .flex{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+        .is {
+            font-size: 60px;
+            font-family: sole;
+            justify-content: center;
+            align-items: center;
+            margin-top: 37px;
+            color: white;
+        
+        .from {
+           color: white;
+           height: 40px;
+           width: 152px;
+           font-size: 30px;
+        }
+
+        .LM {
+            width: 121px;
+            height: 40px;
+            background-color: #79ADDC;
+            border: none;
+            align-items: center;
+            display: inline-block;
+            box-shadow: none;
+            color: white;
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            margin-top: 50px;
+            border-radius: 20px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 15px;
+        }
+    }
+    }
+}
+    .trip2{
+        height: 304px;
+        width: 236px;
+        background-image: url(../images/Group36.png);
+        margin-left: 55px;
+        .flex{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+        .is {
+            font-size: 60px;
+            font-family: sole;
+            justify-content: center;
+            align-items: center;
+            margin-top: 37px;
+            color: white;
+        
+        .from {
+           color: white;
+           height: 40px;
+           width: 152px;
+           font-size: 30px;
+        }
+
+        .LM {
+            width: 121px;
+            height: 40px;
+            background-color: #79ADDC;
+            border: none;
+            align-items: center;
+            display: inline-block;
+            box-shadow: none;
+            color: white;
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            margin-top: 50px;
+            border-radius: 20px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 15px;
+        }
+    }
+    }
+}
+    .trip3{
+    height: 304px;
+    width: 236px;
+    background-image: url(../images/Group37.png);
+    margin-left: 55px;
+    .flex{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    .is {
+        font-size: 58px;
+        font-family: sole;
+        justify-content: center;
+        align-items: center;
+        margin-top: 37px;
+        color: white;
+    
+    .from {
+       color: white;
+       height: 40px;
+       width: 152px;
+       font-size: 30px;
+    }
+
+    .LM {
+        width: 121px;
+        height: 40px;
+        background-color: #79ADDC;
+        border: none;
+        align-items: center;
+        display: inline-block;
+        box-shadow: none;
+        color: white;
+        display: flex;
+        margin: 0 auto;
+        justify-content: center;
+        margin-top: 50px;
+        border-radius: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 15px;
+    }
+}
+}
+}
+}
+.row2{
+    width: 100%;
+    height: 300px;
+    margin-top: 48px;
+    display: flex;
+
+    .trip4{
+        height: 304px;
+        width: 236px;
+        background-image: url(../images/NZ.png);
+        margin-left: 81px;
+        .flex{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+        .is {
+            font-size: 60px;
+            font-family: sole;
+            justify-content: center;
+            align-items: center;
+            margin-top: 37px;
+            color: white;
+        
+        .from {
+           color: white;
+           height: 40px;
+           width: 152px;
+           font-size: 30px;
+           margin: 0 auto;
+        }
+
+        .LM {
+            width: 121px;
+            height: 40px;
+            background-color: #79ADDC;
+            border: none;
+            align-items: center;
+            display: inline-block;
+            box-shadow: none;
+            color: white;
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            margin-top: 50px;
+            border-radius: 20px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 15px;
+        }
+    }
+    }
+}
+    .trip5{
+        height: 304px;
+        width: 236px;
+        background-image: url(../images/France.png);
+        margin-left: 55px;
+        .flex{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+        .is {
+            font-size: 60px;
+            font-family: sole;
+            justify-content: center;
+            align-items: center;
+            margin-top: 37px;
+            color: white;
+        
+        .from {
+           color: white;
+           height: 40px;
+           width: 152px;
+           font-size: 30px;
+        }
+
+        .LM {
+            width: 121px;
+            height: 40px;
+            background-color: #79ADDC;
+            border: none;
+            align-items: center;
+            display: inline-block;
+            box-shadow: none;
+            color: white;
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            margin-top: 50px;
+            border-radius: 20px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 15px;
+        }
+    }
+    }
+}
+    .trip6{
+    height: 304px;
+    width: 236px;
+    background-image: url(../images/Egypt.png);
+    margin-left: 55px;
+    .flex{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    .is {
+        font-size: 58px;
+        font-family: sole;
+        justify-content: center;
+        align-items: center;
+        margin-top: 37px;
+        color: white;
+    
+    .from {
+       color: white;
+       height: 40px;
+       width: 152px;
+       font-size: 30px;
+    }
+
+    .LM {
+        width: 121px;
+        height: 40px;
+        background-color: #79ADDC;
+        border: none;
+        align-items: center;
+        display: inline-block;
+        box-shadow: none;
+        color: white;
+        display: flex;
+        margin: 0 auto;
+        justify-content: center;
+        margin-top: 50px;
+        border-radius: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 15px;
+    }
+}
+}
+}
+}
+.row3{
+    width: 100%;
+    height: 300px;
+    margin-top: 48px;
+    display: flex;
+    margin-bottom: 100px;
+
+    .trip7{
+        height: 304px;
+        width: 236px;
+        background-image: url(../images/Japan.png);
+        margin-left: 81px;
+        .flex{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+        .is {
+            font-size: 60px;
+            font-family: sole;
+            justify-content: center;
+            align-items: center;
+            margin-top: 37px;
+            color: white;
+        
+        .from {
+           color: white;
+           height: 40px;
+           width: 152px;
+           font-size: 30px;
+           margin: 0 auto;
+        }
+
+        .LM {
+            width: 121px;
+            height: 40px;
+            background-color: #79ADDC;
+            border: none;
+            align-items: center;
+            display: inline-block;
+            box-shadow: none;
+            color: white;
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            margin-top: 50px;
+            border-radius: 20px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 15px;
+        }
+    }
+    }
+}
+    .trip8{
+        height: 304px;
+        width: 236px;
+        background-image: url(../images/Canada.png);
+        margin-left: 55px;
+        .flex{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+        .is {
+            font-size: 60px;
+            font-family: sole;
+            justify-content: center;
+            align-items: center;
+            margin-top: 37px;
+            color: white;
+        
+        .from {
+           color: white;
+           height: 40px;
+           width: 152px;
+           font-size: 30px;
+        }
+
+        .LM {
+            width: 121px;
+            height: 40px;
+            background-color: #79ADDC;
+            border: none;
+            align-items: center;
+            display: inline-block;
+            box-shadow: none;
+            color: white;
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            margin-top: 50px;
+            border-radius: 20px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 15px;
+        }
+    }
+    }
+}
+    .trip9{
+    height: 304px;
+    width: 236px;
+    background-image: url(../images/UAE.png);
+    margin-left: 55px;
+    .flex{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    .is {
+        font-size: 58px;
+        font-family: sole;
+        justify-content: center;
+        align-items: center;
+        margin-top: 37px;
+        color: white;
+    
+    .from {
+       color: white;
+       height: 40px;
+       width: 152px;
+       font-size: 30px;
+    }
+
+    .LM {
+        width: 121px;
+        height: 40px;
+        background-color: #79ADDC;
+        border: none;
+        align-items: center;
+        display: inline-block;
+        box-shadow: none;
+        color: white;
+        display: flex;
+        margin: 0 auto;
+        justify-content: center;
+        margin-top: 50px;
+        border-radius: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 15px;
+    }
+}
+}
+}
+}
+    }
+
+
