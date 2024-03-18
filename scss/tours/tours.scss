@@ -50,6 +50,9 @@
             margin-top: 37px;
             color: white;
         
+            a {
+                text-decoration: none;
+            }
         .from {
            color: white;
            height: 40px;
@@ -464,5 +467,236 @@
 }
 }
     }
+
+@media all and (max-width:998px){
+    .tours{
+        width:100%;
+        .hiro {
+            width: 100%;
+            .titleT {
+                
+            }
+        }
+    .row1{
+        width: 100%;
+        flex-direction: column;
+    
+        .trip1{
+            margin: 0 auto;
+            .flex{
+                height: 300px;
+            .is {
+                a {
+                    text-decoration: none;
+                }
+            .from {
+            }
+    
+            .LM {
+                
+            }
+        }
+        }
+    }
+        .trip2{
+            margin: 0 auto;
+            margin-top: 20px;
+            .flex{
+                height: 300px;
+            .is {
+                
+            .from {
+              
+            }
+    
+            .LM {
+            }
+        }
+        }
+    }
+        .trip3{
+            margin: 0 auto;
+            margin-top: 20px;
+        .flex{
+            height: 300px;
+        .is {
+        .from {
+
+        }
+    
+        .LM {
+
+        }
+    }
+    }
+    }
+    }
+    .row2{
+        width: 100%;
+        flex-direction: column;
+        margin-top: 650px;
+    
+        .trip4{
+            margin: 0 auto;
+            margin-top: 20px;
+            .flex{
+                height: 300px;
+    
+            .is {
+                
+            
+            .from {
+               
+            }
+    
+            .LM {
+               
+            }
+        }
+        }
+    }
+        .trip5{
+            margin: 0 auto;
+            margin-top: 20px;
+            .flex{
+                height: 300px;
+    
+            .is {
+              
+            
+            .from {
+               
+            }
+    
+            .LM {
+               
+            }
+        }
+        }
+    }
+        .trip6{
+            margin: 0 auto;
+            margin-top: 20px;
+        .flex{
+            height: 300px;
+    
+        .is {
+
+        
+        .from {
+           
+        }
+    
+        .LM {
+           
+        }
+    }
+    }
+    }
+    }
+    .row3{
+        width: 100%;
+        flex-direction: column;
+        margin-top: 670px;
+    
+        .trip7{
+            margin: 0 auto;
+            margin-top: 20px;
+            .flex{
+                height: 300px;
+    
+            .is {
+                
+            
+            .from {
+               
+            }
+    
+            .LM {
+              
+            }
+        }
+        }
+    }
+        .trip8{
+            margin: 0 auto;
+            margin-top: 20px;
+            
+            .flex{
+                height: 300px; 
+            .is {
+                
+            
+            .from {
+               
+            }
+    
+            .LM {
+               
+            }
+        }
+        }
+    }
+        .trip9{
+            margin: 0 auto;
+            margin-top: 20px;
+        .flex{
+            height: 300px;
+    
+        .is {
+            
+        
+        .from {
+           
+        }
+    
+        .LM {
+            
+        }
+    }
+    }
+    }
+    }
+        }
+        .tours-foot {
+            footer {
+                margin-top: 700px;
+                width: 100%;
+               
+                    .end {
+                        position: relative;
+                        .logo {
+                        margin-left: 50px; 
+                        position: absolute;
+                        }
+            
+                    .copywright {
+                    right: 250px;
+                    width:200px;
+                    margin-bottom: 10px;
+                    position: absolute;
+                            
+                        }
+            
+                        .icons {
+                            position: absolute;
+                            .fb {
+                             
+                            }
+                            .Tw{
+                                 
+                            }
+            
+                            .In{
+                                 
+                            }
+                            
+                        }
+                    }
+                }
+            
+            }
+        }
+
 
 

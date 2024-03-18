@@ -1000,6 +1000,9 @@ footer .end .bottom .icons .Tw {
   margin-top: 37px;
   color: white;
 }
+.tours .row1 .trip1 .flex .is a {
+  text-decoration: none;
+}
 .tours .row1 .trip1 .flex .is .from {
   color: white;
   height: 40px;
@@ -1381,6 +1384,308 @@ footer .end .bottom .icons .Tw {
   border-radius: 20px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 15px;
+}
+
+@media all and (max-width: 998px) {
+  .tours {
+    width: 100%;
+  }
+  .tours .hiro {
+    width: 100%;
+  }
+  .tours .row1 {
+    width: 100%;
+    flex-direction: column;
+  }
+  .tours .row1 .trip1 {
+    margin: 0 auto;
+  }
+  .tours .row1 .trip1 .flex {
+    height: 300px;
+  }
+  .tours .row1 .trip1 .flex .is a {
+    text-decoration: none;
+  }
+  .tours .row1 .trip2 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row1 .trip2 .flex {
+    height: 300px;
+  }
+  .tours .row1 .trip3 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row1 .trip3 .flex {
+    height: 300px;
+  }
+  .tours .row2 {
+    width: 100%;
+    flex-direction: column;
+    margin-top: 650px;
+  }
+  .tours .row2 .trip4 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row2 .trip4 .flex {
+    height: 300px;
+  }
+  .tours .row2 .trip5 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row2 .trip5 .flex {
+    height: 300px;
+  }
+  .tours .row2 .trip6 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row2 .trip6 .flex {
+    height: 300px;
+  }
+  .tours .row3 {
+    width: 100%;
+    flex-direction: column;
+    margin-top: 670px;
+  }
+  .tours .row3 .trip7 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row3 .trip7 .flex {
+    height: 300px;
+  }
+  .tours .row3 .trip8 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row3 .trip8 .flex {
+    height: 300px;
+  }
+  .tours .row3 .trip9 {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .tours .row3 .trip9 .flex {
+    height: 300px;
+  }
+  .tours-foot footer {
+    margin-top: 700px;
+    width: 100%;
+  }
+  .tours-foot footer .end {
+    position: relative;
+  }
+  .tours-foot footer .end .logo {
+    margin-left: 50px;
+    position: absolute;
+  }
+  .tours-foot footer .end .copywright {
+    right: 250px;
+    width: 200px;
+    margin-bottom: 10px;
+    position: absolute;
+  }
+  .tours-foot footer .end .icons {
+    position: absolute;
+  }
+}
+.israel {
+  width: 980px;
+  min-height: 1700px;
+  margin: 0 auto;
+}
+.israel .is-hero {
+  width: 981px;
+  height: 413px;
+  background-color: palegreen;
+  margin-top: 48.5px;
+  display: flex;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/israel.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.israel .is-hero .is-title {
+  font-family: sole;
+  color: white;
+  font-weight: 100;
+  margin-top: 18px;
+  font-size: 60px;
+  letter-spacing: 5px;
+  margin-left: 10px;
+  width: 687px;
+  height: 106px;
+}
+.israel .is-hero .is-sub-title {
+  font-family: sole;
+  width: 500px;
+  height: 40px;
+  color: white;
+  font-weight: 100;
+  margin-top: 18px;
+  font-size: 30px;
+  margin-left: 155px;
+  margin-top: 378px;
+}
+.israel .images {
+  display: flex;
+}
+.israel .images .image1 {
+  width: 298px;
+  height: 347px;
+  background-color: orange;
+  margin-top: 40px;
+  background-image: url(../images/beige.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.israel .images .image2 {
+  width: 298px;
+  height: 347px;
+  background-color: orange;
+  margin-top: 40px;
+  background-image: url(../images/israel-tour-02.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 42px;
+}
+.israel .images .image3 {
+  width: 298px;
+  height: 347px;
+  background-color: orange;
+  margin-top: 40px;
+  background-image: url(../images/israel-tour-03.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-left: 42px;
+}
+.israel .days .day1 .head {
+  font-family: sole;
+  font-size: 60px;
+  margin-top: 19px;
+}
+.israel .days .day1 .head .line {
+  width: 171px;
+  height: 1px;
+  background-color: black;
+}
+.israel .days .day1 .pg {
+  font-family: gilli;
+  margin-top: 36.5px;
+}
+.israel .days .day2 .head {
+  font-family: sole;
+  font-size: 60px;
+  margin-top: 70px;
+}
+.israel .days .day2 .head .line {
+  width: 171px;
+  height: 1px;
+  background-color: black;
+}
+.israel .days .day2 .pg {
+  font-family: gilli;
+  margin-top: 36.5px;
+}
+.israel .days .day3 .head {
+  font-family: sole;
+  font-size: 60px;
+  margin-top: 70px;
+}
+.israel .days .day3 .head .line {
+  width: 171px;
+  height: 1px;
+  background-color: black;
+}
+.israel .days .day3 .pg {
+  font-family: gilli;
+  margin-top: 36.5px;
+}
+.israel .bookNow {
+  width: 121px;
+  height: 40px;
+  background-color: #79ADDC;
+  border: none;
+  align-items: center;
+  display: inline-block;
+  box-shadow: none;
+  color: white;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  margin-top: 50px;
+  border-radius: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 15px;
+}
+
+@media all and (max-width: 1030px) {
+  .israel {
+    width: 100%;
+  }
+  .israel .is-hero {
+    width: 100%;
+  }
+  .israel .is-hero .is-sub-title {
+    margin-left: 200px;
+    margin-top: 300px;
+    width: 500px;
+    height: 100px;
+  }
+  .israel .images {
+    flex-direction: column;
+  }
+  .israel .images .image1 {
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+  .israel .images .image2 {
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+  .israel .images .image3 {
+    margin: 0 auto;
+    margin-top: 15px;
+  }
+  .israel .days {
+    margin: 10px;
+  }
+  .israel .days .day1 .pg {
+    margin-left: 10px;
+  }
+  .israel .days .day2 .pg {
+    margin-left: 10px;
+  }
+  .israel .days .day3 .pg {
+    margin-left: 10px;
+  }
+  .tours-foot-1 footer {
+    margin-top: 100px;
+    width: 100%;
+  }
+  .tours-foot-1 footer .end {
+    position: relative;
+  }
+  .tours-foot-1 footer .end .logo {
+    margin-left: 50px;
+    position: absolute;
+  }
+  .tours-foot-1 footer .end .copywright {
+    right: 250px;
+    width: 200px;
+    margin-bottom: 10px;
+    position: absolute;
+  }
+  .tours-foot-1 footer .end .icons {
+    position: absolute;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */
